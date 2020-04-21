@@ -1,0 +1,9 @@
+{
+    "path" : "~/first project",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
